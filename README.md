@@ -23,12 +23,10 @@ We invite contributors, participants, and stakeholders from all walks of life to
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to the Tech4Good Workshop website, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+We welcome contributions from the community! If you're interested in contributing to the Tech4Good Workshop website, please contact us at [tech4good.icdcs@gmail.com](mailto:tech4good.icdcs@gmail.com).
 
 ## License
 
 This project is licensed under [MIT License](LICENSE) - see the LICENSE file for details.
 
-## Contact
 
-For any inquiries, please contact us at [tech4good.icdcs@gmail.com](mailto:tech4good.icdcs@gmail.com).
