@@ -6,10 +6,13 @@ This repository contains the source code for the Tech4Good Workshop website. The
 
 The website is hosted on two Distributed Computing Systems to align with our commitment to the principles of Web3:
 
-- **IPFS (InterPlanetary File System):** Accessible at [https://tech4good.on.fleek.co/posts/icdcs2024/](https://tech4good.on.fleek.co/posts/icdcs2024/)
 - **Internet Computer Protocol (ICP):** Accessible at [https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/](https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/) [^1]
 
-[^1]: The website is hosted on a canister on the Internet Computer, identified by the canister ID `ibitc-4qaaa-aaaad-qf66a-cai`. The ICP canister ID `ibitc-4qaaa-aaaad-qf66a-cai` is a unique identifier for a canister smart contract on the Internet Computer Protocol (ICP) network. Canisters are computational units that can run smart contracts or store data, with each canister being assigned a unique ID for interaction.
+[^2]: The website is hosted on a canister on the Internet Computer, identified by the canister ID `ibitc-4qaaa-aaaad-qf66a-cai`. The ICP canister ID `ibitc-4qaaa-aaaad-qf66a-cai` is a unique identifier for a canister smart contract on the Internet Computer Protocol (ICP) network. Canisters are computational units that can run smart contracts or store data, with each canister being assigned a unique ID for interaction.
+
+- **IPFS (InterPlanetary File System):** Accessible at [https://tech4good.on.fleek.co](https://tech4good.on.fleek.co/)[^2]
+
+[^2]: Our website is also accessible through IPFS hosting, providing a decentralized and resilient way to access content. IPFS, or the InterPlanetary File System, is a peer-to-peer protocol designed for storing and sharing data in a distributed file system. IPFS hosting leverages this technology to serve websites and web applications in a decentralized manner, enhancing accessibility and resistance to censorship. By hosting content on IPFS, it is stored across multiple nodes globally, ensuring that it remains accessible even if some nodes go offline.
 
 
 
