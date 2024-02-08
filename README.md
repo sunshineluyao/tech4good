@@ -8,7 +8,7 @@ The website is hosted on two Distributed Computing Systems to align with our com
 
 - **Internet Computer Protocol (ICP):** Accessible at [https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/](https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/)[^1]
 
-[^2]: The website is hosted on a canister on the Internet Computer, identified by the canister ID `ibitc-4qaaa-aaaad-qf66a-cai`. The ICP canister ID `ibitc-4qaaa-aaaad-qf66a-cai` is a unique identifier for a canister smart contract on the Internet Computer Protocol (ICP) network. Canisters are computational units that can run smart contracts or store data, with each canister being assigned a unique ID for interaction.
+[^1]: The website is hosted on a canister on the Internet Computer, identified by the canister ID `ibitc-4qaaa-aaaad-qf66a-cai`. The ICP canister ID `ibitc-4qaaa-aaaad-qf66a-cai` is a unique identifier for a canister smart contract on the Internet Computer Protocol (ICP) network. Canisters are computational units that can run smart contracts or store data, with each canister being assigned a unique ID for interaction.
 
 - **IPFS (InterPlanetary File System):** Accessible at [https://tech4good.on.fleek.co](https://tech4good.on.fleek.co/)[^2]
 
