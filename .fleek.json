@@ -1,0 +1,11 @@
+{
+    "build": {
+        "image": "drakobombo/hugo-extended-fleek:latest",
+        "command": "hugo --gc --minify && echo $BUILD_STATUS_ENV",
+        "publicDir": "public",
+        "baseDir": "",
+        "environment": {
+            "BUILD_STATUS_ENV": "Build finished!"
+        }
+    }
+}
