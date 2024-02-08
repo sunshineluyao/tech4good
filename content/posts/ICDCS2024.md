@@ -66,3 +66,5 @@ Participants will present their research, engage in scholarly discourse, and for
 ### Program Committee:
 
 The Tech4Good workshop’s program committee comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful.
+
+The name list is TBA.
