@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "hello-friend"
 paginate = 5
 relativeUrls = true #Please note the line relativeUrls = true. This line is important to make the blog work on IPFS gateways which use paths in their URL in the format /ipfs/HASH. If you have issues having your site show CSS styling on an IPFS gateway, that’s the line you are likely missing!
 
