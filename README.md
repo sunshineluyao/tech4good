@@ -4,7 +4,7 @@
 
 This repository contains the source code for the Tech4Good Workshop website. The Tech4Good Workshop is dedicated to exploring the intersection of technology and social good, with a focus on leveraging Web3 technologies to drive positive change.
 
-The website is hosted on two Distributed Computing Systems to align with our commitment to the principles of Web3:
+The website is hosted on two Distributed Computing Systems---the Internet Computer Protocol (ICP) and the IPFS InterPlanetary File System (IPFS)---to align with our commitment to the principles of advancing technology for good 💻❤️🌍:
 
 - **Internet Computer Protocol (ICP):** Accessible at [https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/](https://ibitc-4qaaa-aaaad-qf66a-cai.ic.fleek.co/)[^1]
 
