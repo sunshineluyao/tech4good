@@ -2,10 +2,11 @@
 title: "The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good)"
 date: 2024-02-8T16:23:24-04:00
 draft: false
-cover: "img/cover.jpg"
+cover: "img/cover.png"
 ---
 
-# The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good)
+# The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good) 
+
 <span style="color:grey;">44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) Affiliated Workshop</span>
 
 **Date:** July 16, 2023  
@@ -14,7 +15,7 @@ cover: "img/cover.jpg"
 
 ---
 
-We invite scholars, industry experts, and practitioners to contribute to the Tech4Good workshop. This event seeks to explore the nuanced interplay between computational science and economics amid the complexities of modern distributed systems, which are pivotal to the digital economy's growth and societal impact. With the digital economy's landscape dramatically reshaped, our collective focus is on addressing the emergent intricacies and human interaction challenges within these systems. We emphasize research that extends its reach beyond academia, informing industry practices and shaping policy advice. Our commitment is to foster interdisciplinary dialogue and harness a spectrum of research methodologies—be it theoretical analysis, empirical data studies, or hands-on experimental approaches. The spotlight is on pioneering technologies that not only drive economic growth but also navigate the delicate balance between scalability and privacy, security and efficiency, and the overarching demand for ethical frameworks in technological deployment.
+We invite scholars, industry experts, and practitioners to contribute to the Tech4Good workshop. This event seeks to explore the nuanced interplay between computational science and economics amid the complexities of modern distributed systems, which are pivotal to the digital economy's growth and societal impact. With the digital economy's landscape dramatically reshaped, our collective focus is on addressing the emergent intricacies and human interaction challenges within these systems. We emphasize research that extends its reach beyond academia, informing industry practices and shaping policy advice. Our commitment is to foster interdisciplinary dialogue and harness a spectrum of research methodologies—be it theoretical analysis, empirical data studies, or hands-on experimental approaches. The spotlight is on pioneering technologies that not only drive economic growth but also navigate the delicate balance between scalability and privacy, security and efficiency, and the overarching demand for ethical frameworks in technological deployment. 
 
 ### Tracks for Submission:
 - **Original Research Track:** For submissions detailing new research findings in distributed system modeling, algorithms, or implementation.
@@ -42,10 +43,18 @@ We invite submissions that rigorously explore technical challenges, economic int
 - **Workshop Date:** July 16, 2024
 
 ### Submission Portal:
-All workshop papers are limited to no more than six pages in IEEE format aligned with the IEEE-ICDCS main conference guidelines but with unlimited references and an appendix.
+All workshop papers are limited to no more than six pages in IEEE format aligned with the IEEE-ICDCS main conference guidelines but with unlimited references and an appendix. You can also directly adopt the [IEEE conference template on Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
 
-**Paper submission website:** [https://easychair.org/conferences/?conf=tech4good](https://easychair.org/conferences/?conf=tech4good)  
-**Contact:** tech4good.icdcs@gmail.com
+- **Paper submission website:** [https://easychair.org/conferences/?conf=tech4good](https://easychair.org/conferences/?conf=tech4good)
+
+- **Call for paper site:** [https://easychair.org/cfp/Tech4Good](https://easychair.org/cfp/Tech4Good)
+
+- **ICDCS Program Workshop Page:** [https://icdcs2024.icdcs.org/workshops/](https://icdcs2024.icdcs.org/workshops/)
+
+- **Website:** [https://tech4good.sciecon.org/](https://tech4good.sciecon.org/)
+
+- **Contact:** tech4good.icdcs@gmail.com
+
 
 ### Expected Outcomes:
 
@@ -57,14 +66,65 @@ Participants will present their research, engage in scholarly discourse, and for
 ### Organizing Committee 
 *by the alphabetical order of the last name*
 - **[Gary Charness](https://en.wikipedia.org/wiki/Gary_Charness)**, University of California Santa Barbara (UCSB)
-- **[Lin William Cong](https://www.linwilliamcong.com/)**, Cornell University
+- **[Lin William Cong](https://www.linwilliamcong.com/)**, Cornell University (Cornell U)
 - **[Jianwei Huang](https://jianwei.cuhk.edu.cn/)**, The Chinese University of Hong Kong (CUHK, Shenzhen)
-- **[Bing Luo](https://scholars.duke.edu/person/bing.luo/)**, Duke Kunshan University
+- **[Bing Luo](https://scholars.duke.edu/person/bing.luo/)**, Duke Kunshan University (DKU)
 - **[Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html)**, University of Science and Technology of China (USTC)
-- **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University
+- **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University (DKU)
 
 ### Program Committee:
 
-The Tech4Good workshop’s program committee comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful.
+The Tech4Good workshop’s program committee (PC) comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful. Below is the PC name list *in the alphabetical order of the last names*. 💻❤️🌍
 
-The name list is TBA.
+- Wei Bao, Sydney University
+- Rafael Belchior, INESC-ID, Técnico Lisboa
+- Christophe Bisiere, Toulouse School of Economics
+- Dave Costenaro, CDO at Cornerstone Solution Group (CSG), Founder at Build Well
+- Gabriele D'Angelo, University of Bologna
+- Ningning Ding, Northwestern University
+- Ilaf Elard, New York University Shanghai
+- Mark Esposito, Hult International Business School, Harvard University
+- Saleh Fahad, Wake Forest University
+- Zhixuan Fang, Tsinghua University
+- Gavin Feng, City University of Hong Kong
+- Javier Ferrer, Co-founder at ICP North American
+- Guoju Gao, Soochow University
+- Krzysztof Gogol, University of Zurich, Co-founder at StableSwiss
+- Liao Gordon, Chief Economist at Circle Internet Financials
+- Ken Huang, Distributedapps.ai, Cloud Security Alliance
+- George Iosifidis, Delft University of Technology
+- Juncheng Jia, Soochow University
+- Yuang Jiang, Meta Platforms
+- Xiaofeng Jiao, Beijing Big Data Centre
+- Klaudia Krawiecka, Meta Inc
+- Nicholas Lane, University of Cambridge, Flower
+- Alfred Lehar, Calgary University
+- Guocheng Liao, Sun Yat-sen University (SYSU)
+- Daniel Liebau, Singapore Management University
+- Yunshu Liu, Singapore University of Technology and Design (SUTD)
+- Yulin Liu, Partner at Bochsler Group, Co-founder at SciEcon CIC
+- Chang Lu, University of British Columbia
+- Yuan Luo, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+- Qian Ma, Sun Yat-sen University (SYSU)
+- Swapneel Mehta, Boston University and MIT, Founder at SimPPL
+- Andreas Park, University of Toronto, Canadian Securities Institute’s Research Foundation
+- Stjepan Picek, Radboud University
+- Weihong Qi, Datatang (Beijing) Technology Co.,Ltd
+- Daniel Rabetti, National University of Singapore
+- Qi Shao, Chinese University of Hong Kong (CUHK)
+- Dieter Sommer, Dfinity Foundation
+- Sebastian Stein, University of Southampton
+- Peng Sun, Hunan University
+- Ming Tang, Southern University of Science and Technology (SUSTech)
+- Paolo Tasca, University College London, Founder and director at Distributed Ledger Technology (DLT) Science Foundation
+- Bao Te, Nanyang Technological University
+- Yonglin Tian, Chinese Academy of Sciences
+- Jianzong Wang, Pingan Technology
+- Zhiyuan Wang, Beijing University of Aeronautics and Astronautics (BUAA)
+- Roger Wattenhofer, ETH Zurich
+- Ming Wu, Co-founder and CTO at Conflux Blockchain, Shanghai TreeGraph Blockchain Research Institute
+- Jiaming Xu, Duke University
+- Haoran Yu, Beijing Institute of Technology (BIT)
+- Nicholas Yuan, Microsoft
+- Meng Zhang, Zhejiang University (ZJU)
+- Quanyan Zhu, New York University (NYU)
