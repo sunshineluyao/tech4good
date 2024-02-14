@@ -2,7 +2,7 @@
 title: "The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good)"
 date: 2024-02-8T16:23:24-04:00
 draft: false
-cover: "img/cover.png"
+cover: "img/cover.jpg"
 ---
 
 # The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good) 
