@@ -5,8 +5,6 @@ draft: false
 cover: "img/cover.jpg"
 ---
 
-# The Inaugural workshop on Tech for Good: Economic and Computational Advances in Distributed Systems (Tech4Good) 
-
 <span style="color:grey;">44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) Affiliated Workshop</span>
 
 **Date:** July 16, 2023  
