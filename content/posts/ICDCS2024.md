@@ -72,35 +72,39 @@ Participants will present their research, engage in scholarly discourse, and for
 
 ### Program Committee:
 
-The Tech4Good workshop’s program committee (PC) comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful. Below is the PC name list *in the alphabetical order of the last names*. 
+The Tech4Good workshop’s program committee (PC) comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful. Below is the PC name list in the alphabetical order of the last names.
 
+- Te Bao, Nanyang Technological University (NTU)
 - Wei Bao, Sydney University
 - Rafael Belchior, INESC-ID, Técnico Lisboa
-- Christophe Bisiere, Toulouse School of Economics
-- Dave Costenaro, CDO at Cornerstone Solution Group (CSG), Founder at Build Well
+- Christophe Bisiere, Toulouse School of Economics (TSE)
+- Dave Costenaro, Chief Data Officer (CDO) at Cornerstone Solution Group (CSG), Founder at Build Well
 - Gabriele D'Angelo, University of Bologna
 - Ningning Ding, Northwestern University
-- Ilaf Elard, New York University Shanghai
+- Ilaf Elard, New York University (NYU) Shanghai
 - Mark Esposito, Hult International Business School, Harvard University
 - Saleh Fahad, Wake Forest University
 - Zhixuan Fang, Tsinghua University
 - Gavin Feng, City University of Hong Kong
-- Javier Ferrer, Co-founder at ICP North American
+- Javier Arroyo Ferrer, Co-founder at ICP Hub North America, Co-Founder of Quantum Leap Labs Incubator, Founder of ICP Master, Host of Let’s Talk ICP Podcast
+- Sander Gansen, Co-Founder of BananaCorp
 - Guoju Gao, Soochow University
 - Krzysztof Gogol, University of Zurich, Co-founder at StableSwiss
-- Liao Gordon, Chief Economist at Circle Internet Financials
+- Hanna Halaburda, NYU Stern School of Business
 - Ken Huang, Distributedapps.ai, Cloud Security Alliance
 - George Iosifidis, Delft University of Technology
 - Juncheng Jia, Soochow University
-- Yuang Jiang, Meta Platforms
-- Xiaofeng Jiao, Beijing Big Data Centre
-- Klaudia Krawiecka, Meta Inc
+- Xiaofeng Jia, Beijing Big Data Centre
+- Yuang Jiang, Meta Platforms, Inc.
+- Klaudia Krawiecka, Meta Platforms, Inc., University of Oxford
 - Nicholas Lane, University of Cambridge, Flower
 - Alfred Lehar, Calgary University
+- Gordon Liao, Chief Economist at Circle Internet Financials
 - Guocheng Liao, Sun Yat-sen University (SYSU)
 - Daniel Liebau, Singapore Management University
-- Yunshu Liu, Singapore University of Technology and Design (SUTD)
+- Tao Lin, Westlake University
 - Yulin Liu, Partner at Bochsler Group, Co-founder at SciEcon CIC
+- Yunshu Liu, Singapore University of Technology and Design (SUTD)
 - Chang Lu, University of British Columbia
 - Yuan Luo, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
 - Qian Ma, Sun Yat-sen University (SYSU)
@@ -110,22 +114,23 @@ The Tech4Good workshop’s program committee (PC) comprises diverse interdiscipl
 - Weihong Qi, Datatang (Beijing) Technology Co.,Ltd
 - Daniel Rabetti, National University of Singapore
 - Qi Shao, Chinese University of Hong Kong (CUHK)
-- Dieter Sommer, Dfinity Foundation
+- Dieter Sommer, DFINITY Foundation
 - Sebastian Stein, University of Southampton
 - Peng Sun, Hunan University
 - Ming Tang, Southern University of Science and Technology (SUSTech)
-- Paolo Tasca, University College London, Founder and director at Distributed Ledger Technology (DLT) Science Foundation
-- Bao Te, Nanyang Technological University
+- Paolo Tasca, University College London (UCL), Founder and director at Distributed Ledger Technology (DLT) Science Foundation
 - Yonglin Tian, Chinese Academy of Sciences
-- Jianzong Wang, Pingan Technology
+- Xavier Vives, IESE Business School, Director at Banking Initiative
+- Jianzong Wang, Ping An Technology (Shenzhen) Co., Ltd., LLAM | Lab of Large Audio Model
 - Zhiyuan Wang, Beijing University of Aeronautics and Astronautics (BUAA)
 - Roger Wattenhofer, ETH Zurich
-- Ming Wu, Co-founder and CTO at Conflux Blockchain, Shanghai TreeGraph Blockchain Research Institute
+- Ming Wu, Cofounder and CTO at Conflux Blockchain, Shanghai TreeGraph Blockchain Research Institute
 - Jiaming Xu, Duke University
 - Haoran Yu, Beijing Institute of Technology (BIT)
 - Nicholas Yuan, Microsoft
 - Meng Zhang, Zhejiang University (ZJU)
-- Quanyan Zhu, New York University (NYU)
+- Quanyan Zhu, New York University (NYU) Tandon School of Engineering
+
 
 
 <!-- Somewhere in your body content, like in a header or about section -->
