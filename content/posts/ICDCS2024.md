@@ -7,7 +7,7 @@ cover: "img/cover.jpg"
 
 <span style="color:grey;">44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) Affiliated Workshop</span>
 
-**Date:** July 16, 2023  
+**Date:** July 16, 2024  
 **Location:** Jersey City, New Jersey, USA  
 **Venue:** co-located with ICDCS 2024  
 
