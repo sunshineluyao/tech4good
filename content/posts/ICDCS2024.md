@@ -68,7 +68,7 @@ Participants will present their research, engage in scholarly discourse, and for
 - **[Jianwei Huang](https://jianwei.cuhk.edu.cn/)**, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) [^b]
 - **[Bing Luo](https://scholars.duke.edu/person/bing.luo/)**, Duke Kunshan University (DKU)
 - **[Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html)**, University of Science and Technology of China (USTC)
-- **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University (DKU)
+- **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University (DKU) [^c]
 
 [^a]: L. Cong is also affiliated with the National Bureau of Economic Research (NBER)
 [^b]: J. Huang is also with the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
