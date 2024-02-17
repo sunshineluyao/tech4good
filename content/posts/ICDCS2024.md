@@ -65,13 +65,14 @@ Participants will present their research, engage in scholarly discourse, and for
 *by the alphabetical order of the last name*
 - **[Gary Charness](https://en.wikipedia.org/wiki/Gary_Charness)**, University of California Santa Barbara (UCSB)
 - **[Lin William Cong](https://www.linwilliamcong.com/)**, Cornell University (Cornell U)[^a]
-- **[Jianwei Huang](https://jianwei.cuhk.edu.cn/)**, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
+- **[Jianwei Huang](https://jianwei.cuhk.edu.cn/)**, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) [^b]
 - **[Bing Luo](https://scholars.duke.edu/person/bing.luo/)**, Duke Kunshan University (DKU)
 - **[Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html)**, University of Science and Technology of China (USTC)
 - **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University (DKU)
 
 [^a]: L. Cong is also affiliated with the National Bureau of Economic Research (NBER)
-*Notes: Additionally, L. Cong is affiliated with the National Bureau of Economic Research (NBER), J. Huang with the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), and L. Zhang is the co-founder of SciEcon CIC.*
+[^b]: J. Huang is also with the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
+[^c]: L. Zhang is also the co-founder of SciEcon CIC.
 
 ### Program Committee:
 
