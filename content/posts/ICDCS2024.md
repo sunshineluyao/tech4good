@@ -70,6 +70,9 @@ Participants will present their research, engage in scholarly discourse, and for
 - **[Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html)**, University of Science and Technology of China (USTC)
 - **[Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang)**, Duke Kunshan University (DKU)
 
+
+*Notes: Additionally, L. Cong is affiliated with the National Bureau of Economic Research (NBER), J. Huang with the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), and L. Zhang is the co-founder of SciEcon CIC.*
+
 ### Program Committee:
 
 The Tech4Good workshop’s program committee (PC) comprises diverse interdisciplinary experts at the nexus of economics and computation within distributed systems. They bring varied backgrounds, uniting to deliver deep insights and tangible impacts for social good. The committee's role is to steer the workshop's conversations, ensuring they cultivate technological advancements that are ethical, scalable, and profoundly impactful. Below is the PC name list in the alphabetical order of the last names.
