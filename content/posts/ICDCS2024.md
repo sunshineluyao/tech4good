@@ -34,9 +34,8 @@ We invite submissions that rigorously explore technical challenges, economic int
 - trust mechanisms in distributed environments.
 
 ### Important Dates:
-- **Abstract Submission Deadline:** March 15, 2024  
-- **Paper Submission Deadline:** March 22, 2024  
-- **Notification of Acceptance:** April 24, 2024  
+- **Paper Submission Deadline:** April 15, 2024  
+- **Notification of Acceptance:** May 5, 2024  
 - **Camera-Ready Submission:** May 10, 2024  
 - **Workshop Date:** July 16, 2024
 
